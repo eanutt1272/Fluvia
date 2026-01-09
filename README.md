@@ -3,7 +3,7 @@
 ## Overview
 Fluvia is a high‑performance geomorphological modelling system implementing hydraulic and thermal erosion processes urilising a 2.5D Lagrangian droplet approach.
 
-The simulator includes:
+The program includes:
 - a real‑time rendering pipeline
 - an interactive parameter‑tuning GUI
 - a built‑in media recorder for exporting images and video files of the terrain
